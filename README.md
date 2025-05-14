@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="Assets/Cover-Gif.gif" alt="Cover-Gif" width="600"/>
+  <img src="Assets/Cover-Gif.gif" alt="Cover-Gif" width="400"/>
 </p>
 
 ---
