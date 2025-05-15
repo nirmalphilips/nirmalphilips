@@ -1,11 +1,11 @@
 
-
 ---
 
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
 <tr>
-<td align="left" width="20%">
-Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="wave" height="20"/>
+<td align="left" width="40%">
+
+Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="wave" height="30"/>
 
 </td>
 <td align="right" width="50%">
