@@ -1,15 +1,22 @@
+Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="wave" height="20"/>
 
 ---
 
+<table>
+<tr>
+<td align="left" width="50%">
+
+
+</td>
+<td align="right" width="50%">
 
 <p align="center">
   <img src="Assets/Cover-Gif.gif" alt="Cover-Gif" width="400"/>
 </p>
 
----
-
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-==========================================================================================================================================
+</td>
+</tr>
+</table>
 
 
 
