@@ -1,7 +1,7 @@
 
 ---
 
-<table border="0" cellspacing="0" cellpadding="0">
+<table border="0" align="center" cellspacing="0" cellpadding="0">
 <tr>
 <td align="left" width="40%">
 
