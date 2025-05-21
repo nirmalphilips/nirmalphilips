@@ -1,18 +1,16 @@
-<!-- Intro Row with Hi + GIF and Image -->
+<!-- Intro Row: Hi + GIF on the left, Cover-Gif on the right -->
 
-<div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
-  
-  <div style="flex: 1; min-width: 200px; font-size: 1.5em;">
-    Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="wave" height="30"/>
-  </div>
-
-<div style="flex: 1; text-align: right; min-width: 250px;">
-  <img src="Assets/Cover-Gif.gif" alt="Cover-Gif" width="300" style="border-radius: 10px;"/>
-</div>
-
-
-</div>
-
+<table width="100%">
+  <tr>
+    <td align="left" valign="top" width="50%">
+      <span style="font-size: 1.5em;">Hi</span>
+      <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="wave" height="30"/>
+    </td>
+    <td align="right" valign="top" width="50%">
+      <img src="Assets/Cover-Gif.gif" alt="Cover-Gif" width="300"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -20,12 +18,12 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nirmalphilipstom)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nirmalphilips@outlook.com)
 
----
+
 
 # 💻 Tech Stack:
 
 <!-- Group badges for easier scan -->
-<div style="display: flex; flex-wrap: wrap; gap: 6px;">
+<div align="left">
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
@@ -67,4 +65,4 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=nirmalphilips&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nirmalphilips&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
