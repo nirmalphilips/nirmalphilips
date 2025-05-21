@@ -1,16 +1,18 @@
 <!-- Intro Row with Hi + GIF and Image -->
 
 <div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
-
+  
   <div style="flex: 1; min-width: 200px; font-size: 1.5em;">
     Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="wave" height="30"/>
   </div>
 
-  <div style="flex: 1; text-align: center; min-width: 250px;">
-    <img src="Assets/Cover-Gif.gif" alt="Cover-Gif" width="300" style="border-radius: 10px;"/>
-  </div>
+<div style="flex: 1; text-align: right; min-width: 250px;">
+  <img src="Assets/Cover-Gif.gif" alt="Cover-Gif" width="300" style="border-radius: 10px;"/>
+</div>
+
 
 </div>
+
 
 ---
 
