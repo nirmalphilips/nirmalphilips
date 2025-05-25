@@ -21,7 +21,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/nirmalphilipstom)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nirmalphilips@outlook.com)
 
-### 💻 Tech Stack
+### 🛠️ Tech Stack
 
 <div align="left">
 
@@ -73,6 +73,8 @@
 ![Framer](https://img.shields.io/badge/Framer-black?style=flat&logo=framer&logoColor=blue)
 
 </div>
+
+### 🪄 Stats
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nirmalphilips&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
