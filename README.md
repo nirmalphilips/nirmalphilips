@@ -1,5 +1,5 @@
 <!-- Intro Row: Hi + GIF on the left, Cover-Gif on the right -->
----
+
 
 <table align="right" width="100%">
   <tr>
@@ -13,7 +13,7 @@
   </tr>
 </table>
 
----
+
 -
 
 -
