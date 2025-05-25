@@ -4,7 +4,7 @@
 <table width="100%">
   <tr>
     <td align="right" valign="top" width="50%">
-      <span style="font-size: 1.5em;"><strong>Hi</strong></span>
+      <span style="font-size: 1.5em;"><strong>Hello</strong></span>
       <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="wave" height="30"/>
     </td>
     <td align="right" valign="top" width="50%">
