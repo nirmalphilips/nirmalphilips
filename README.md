@@ -1,7 +1,7 @@
 
 
 
-<table align="right" width="100%">
+<table align="left" width="100%">
   <tr>
     <td align="right" valign="top" width="50%">
       <span style="font-size: 1.5em;">Hi</span>
@@ -14,18 +14,9 @@
 </table>
 
 
--
--
--
--
--
--
--
--
 
 
-
-#### 🌐 Socials
+### 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nirmalphilipstom)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nirmalphilips@outlook.com)
