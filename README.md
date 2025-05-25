@@ -1,4 +1,4 @@
-<!-- Intro Row: Hi + GIF on the left, Cover-Gif on the right -->
+
 
 
 <table align="right" width="100%">
@@ -15,27 +15,26 @@
 
 
 -
-
+-
+-
+-
+-
+-
+-
 -
 
--
--
--
--
--
--
 
----
 
-## 🌐 Socials:
+#### 🌐 Socials
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nirmalphilipstom)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nirmalphilips@outlook.com)
 
 
 
-# 💻 Tech Stack:
+### 💻 Tech Stack
 
-<!-- Group badges for easier scan -->
+
 <div align="left">
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -70,7 +69,8 @@
 
 </div>
 
----
+
+
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nirmalphilips&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
