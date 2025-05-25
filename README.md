@@ -2,7 +2,7 @@
 
 <table width="100%">
   <tr>
-    <td align="left" valign="top" width="50%">
+    <td align="right" valign="top" width="50%">
       <span style="font-size: 1.5em;">Hi</span>
       <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="wave" height="30"/>
     </td>
