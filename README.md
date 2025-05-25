@@ -1,6 +1,6 @@
 <!-- Intro Row: Hi + GIF on the left, Cover-Gif on the right -->
 
-<table width="100%">
+<table align="right" width="100%">
   <tr>
     <td align="right" valign="top" width="50%">
       <span style="font-size: 1.5em;">Hi</span>
