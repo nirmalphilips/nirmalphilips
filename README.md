@@ -1,7 +1,7 @@
 
 
 
-<table width="100%">
+<table align="center" width="100%">
   <tr>
     <td align="right" valign="top" width="50%">
       <span style="font-size: 1.5em;"><strong>Hello</strong></span>
